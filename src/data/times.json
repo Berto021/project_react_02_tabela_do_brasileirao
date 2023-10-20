@@ -1,0 +1,24 @@
+{
+  "times": [
+    { "id": 1, "nome": "Flamengo", "pontos": 47, "vitorias": 13 },
+    { "id": 2, "nome": "Palmeiras", "pontos": 44, "vitorias": 12 },
+    { "id": 3, "nome": "Botafogo", "pontos": 58, "vitorias": 18 },
+    { "id": 4, "nome": "Bragantino", "pontos": 49, "vitorias": 13 },
+    { "id": 5, "nome": "Grêmio", "pontos": 44, "vitorias": 13 },
+    { "id": 6, "nome": "Athletico-PR", "pontos": 44, "vitorias": 12 },
+    { "id": 7, "nome": "América-MG", "pontos": 18, "vitorias": 4 },
+    { "id": 8, "nome": "Coritiba", "pontos": 20, "vitorias": 5 },
+    { "id": 9, "nome": "Goiás", "pontos": 30, "vitorias": 7 },
+    { "id": 10, "nome": "Santos", "pontos": 30, "vitorias": 8 },
+    { "id": 11, "nome": "Vasco Da Gama", "pontos": 30, "vitorias": 8 },
+    { "id": 12, "nome": "Cruzeiro", "pontos": 31, "vitorias": 7 },
+    { "id": 13, "nome": "Bahia", "pontos": 31, "vitorias": 8 },
+    { "id": 14, "nome": "Corinthias", "pontos": 32, "vitorias": 7 },
+    { "id": 15, "nome": "Internacional", "pontos": 32, "vitorias": 8 },
+    { "id": 16, "nome": "São Paulo", "pontos": 35, "vitorias": 9 },
+    { "id": 17, "nome": "Cuiabá", "pontos": 36, "vitorias": 10 },
+    { "id": 18, "nome": "Fluminense", "pontos": 42, "vitorias": 12 },
+    { "id": 19, "nome": "Fortaleza", "pontos": 42, "vitorias": 12 },
+    { "id": 20, "nome": "Atlético-MG", "pontos": 43, "vitorias": 12 }
+  ]
+}
