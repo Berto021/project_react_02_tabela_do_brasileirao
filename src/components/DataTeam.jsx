@@ -42,9 +42,9 @@ const DataTeam = () => {
 
   return (
     <div>
-      <h1>tabela de times</h1>
+      
       <table border="1">
-        <tr>
+        <tr className='principal'>
           <th>CLUBE</th>
           <th>PTS</th>
           <th>PJ</th>
@@ -56,8 +56,8 @@ const DataTeam = () => {
           <th>SG</th>
         </tr>
         {dataTeam.map((times, index) => (
-          <tr>
-            <th> {index+1}{times.logo}  {times.nome}</th>
+          <tr className='dados_aplicados'>
+            <th> {index+1}° {times.nome}</th>
             <th>{times.pontos}</th>
             <th>{times.partidas}</th>
             <th>{times.vitorias}</th>
