@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 
-const url = "http://localhost:3000/times";
+const url = "https://json-test-pearl.vercel.app/times";
 const DataTeam = () => {
   var [dataTeam, setDataTeam] = useState([]);
 
