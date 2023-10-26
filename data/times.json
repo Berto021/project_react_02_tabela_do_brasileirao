@@ -1,0 +1,224 @@
+{
+  "times": [
+    {
+      "nome": "Flamengo",
+      "partidas": 27,
+      "pontos": 47,
+      "vitorias": 13,
+      "empates": 8,
+      "derrotas": 6,
+      "gm": 40,
+      "gc": 31,
+      "sg": 9
+    },
+    {
+      "nome": "Palmeiras",
+      "partidas": 27,
+      "pontos": 44,
+      "vitorias": 12,
+      "empates": 8,
+      "derrotas": 7,
+      "gm": 40,
+      "gc": 24,
+      "sg": 16
+    },
+    {
+      "nome": "Botafogo",
+      "partidas": 27,
+      "pontos": 58,
+      "vitorias": 18,
+      "empates": 4,
+      "derrotas": 5,
+      "gm": 44,
+      "gc": 17,
+      "sg": 27
+    },
+    {
+      "nome": "Bragantino",
+      "partidas": 27,
+      "pontos": 49,
+      "vitorias": 13,
+      "empates": 10,
+      "derrotas": 4,
+      "gm": 39,
+      "gc": 24,
+      "sg": 15
+    },
+    {
+      "nome": "Grêmio",
+      "partidas": 27,
+      "pontos": 44,
+      "vitorias": 13,
+      "empates": 5,
+      "derrotas": 9,
+      "gm": 43,
+      "gc": 37,
+      "sg": 6
+    },
+    {
+      "nome": "Athletico-PR",
+      "partidas": 27,
+      "pontos": 44,
+      "vitorias": 12,
+      "empates": 8,
+      "derrotas": 7,
+      "gm": 40,
+      "gc": 31,
+      "sg": 9
+    },
+    {
+      "nome": "América-MG",
+      "partidas": 27,
+      "pontos": 18,
+      "vitorias": 4,
+      "empates": 6,
+      "derrotas": 17,
+      "gm": 30,
+      "gc": 21,
+      "sg": -26
+    },
+    {
+      "nome": "Coritiba",
+      "partidas": 27,
+      "pontos": 20,
+      "vitorias": 5,
+      "empates": 5,
+      "derrotas": 17,
+      "gm": 29,
+      "gc": 27,
+      "sg": -28
+    },
+    {
+      "nome": "Goiás",
+      "partidas": 27,
+      "pontos": 30,
+      "vitorias": 7,
+      "empates": 9,
+      "derrotas": 11,
+      "gm": 27,
+      "gc": 34,
+      "sg": -10
+    },
+    {
+      "nome": "Santos",
+      "partidas": 27,
+      "pontos": 30,
+      "vitorias": 8,
+      "empates": 6,
+      "derrotas": 13,
+      "gm": 30,
+      "gc": 30,
+      "sg": -15
+    },
+    {
+      "nome": "Vasco Da Gama",
+      "partidas": 27,
+      "pontos": 30,
+      "vitorias": 8,
+      "empates": 6,
+      "derrotas": 13,
+      "gm": 28,
+      "gc": 29,
+      "sg": -10
+    },
+    {
+      "nome": "Cruzeiro",
+      "partidas": 27,
+      "pontos": 31,
+      "vitorias": 7,
+      "empates": 10,
+      "derrotas": 10,
+      "gm": 24,
+      "gc": 32,
+      "sg": 0
+    },
+    {
+      "nome": "Bahia",
+      "partidas": 27,
+      "pontos": 31,
+      "vitorias": 8,
+      "empates": 7,
+      "derrotas": 12,
+      "gm": 35,
+      "gc": 35,
+      "sg": -3
+    },
+    {
+      "nome": "Corinthias",
+      "partidas": 27,
+      "pontos": 32,
+      "vitorias": 7,
+      "empates": 11,
+      "derrotas": 9,
+      "gm": 33,
+      "gc": 38,
+      "sg": -2
+    },
+    {
+      "nome": "Internacional",
+      "partidas": 27,
+      "pontos": 32,
+      "vitorias": 8,
+      "empates": 8,
+      "derrotas": 11,
+      "gm": 23,
+      "gc": 24,
+      "sg": -9
+    },
+    {
+      "nome": "São Paulo",
+      "partidas": 27,
+      "pontos": 35,
+      "vitorias": 9,
+      "empates": 8,
+      "derrotas": 10,
+      "gm": 31,
+      "gc": 38,
+      "sg": 2
+    },
+    {
+      "nome": "Cuiabá",
+      "partidas": 27,
+      "pontos": 36,
+      "vitorias": 10,
+      "empates": 6,
+      "derrotas": 11,
+      "gm": 29,
+      "gc": 45,
+      "sg": -1
+    },
+    {
+      "nome": "Fluminense",
+      "partidas": 27,
+      "pontos": 42,
+      "vitorias": 12,
+      "empates": 6,
+      "derrotas": 9,
+      "gm": 37,
+      "gc": 37,
+      "sg": 3
+    },
+    {
+      "nome": "Fortaleza",
+      "partidas": 27,
+      "pontos": 42,
+      "vitorias": 12,
+      "empates": 6,
+      "derrotas": 9,
+      "gm": 33,
+      "gc": 57,
+      "sg": 6
+    },
+    {
+      "nome": "Atlético-MG",
+      "partidas": 27,
+      "pontos": 43,
+      "vitorias": 12,
+      "empates": 7,
+      "derrotas": 8,
+      "gm": 32,
+      "gc": 56,
+      "sg": 11
+    }
+  ]
+}
