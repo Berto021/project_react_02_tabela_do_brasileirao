@@ -172,3 +172,97 @@ table .dados_aplicados:nth-child(21) {
   justify-content: center;
   gap: 5px;
 }
+@media (min-width: 350px) and (max-width: 650px){
+  table .principal {
+    border-left-style: ridge;
+    border-top-style: ridge;
+    border-right-style: ridge;
+  }
+  table .dados_aplicados:nth-child(n) {
+    border-right-style: ridge;
+  }
+  table .dados_aplicados:nth-child(2) {
+    border-left: #4285f4;
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(3) {
+    border-left: #4285f4;
+    border-left-style: ridge;
+  }
+  
+  table .dados_aplicados:nth-child(4) {
+    border-left: #4285f4;
+    border-left-style: ridge;
+  }
+  
+  table .dados_aplicados:nth-child(5) {
+    border-left: #4285f4;
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(6) {
+    border-left: #fa7b17;
+    border-left-style: ridge;
+  }
+  
+  table .dados_aplicados:nth-child(7) {
+    border-left: #fa7b17;
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(8) {
+    border-left: #34a853;
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(9) {
+    border-left: #34a853;
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(10) {
+    border-left: #34a853;
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(11) {
+    border-left: #34a853;
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(12) {
+    border-left: #34a853;
+    border-left-style: ridge;
+  }
+  
+  table .dados_aplicados:nth-child(13) {
+    border-left: #34a853;
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(14) {
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(15) {
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(16) {
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(17) {
+    border-left-style: ridge;
+  }
+  
+  table .dados_aplicados:nth-child(18) {
+    border-left: #ea4335;
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(19) {
+    border-left: #ea4335;
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(20) {
+    border-left: #ea4335;
+    border-left-style: ridge;
+  }
+  table .dados_aplicados:nth-child(21) {
+    border-left: #ea4335;
+    border-left-style: ridge;
+    border-bottom-style: ridge;
+  }
+
+
+}
